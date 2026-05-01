@@ -12,8 +12,8 @@ um arquivo *"result.json"* com o resultado dessa análise.
 
 Para executar o código basta ter o Docker instalado e executar o  comando
 
-    ```bash
-    docker compose up --build
-    ```
+```bash
+docker compose up --build
+```
 
 no diretório do projeto, o que irá gerar o arquivo *"result.json"* no mesmo diretório.
